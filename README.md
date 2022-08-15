@@ -10,3 +10,4 @@
   * [Статические файлы](./task/file/FileStore.md)
   * [Стриминг медиа файлов](./task/file/MediaFileStore.md)
   * [Большие файлы](./task/file/LargeFileStore.md)
+* [Запланированные задачи](task/scheduled-task/ScheduledTask.md)
